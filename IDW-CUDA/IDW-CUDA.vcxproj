@@ -150,6 +150,11 @@ copy "$(CudaToolkitBinDir)\cudart*.dll" "$(OutDir)"</Command>
       <TargetMachinePlatform>64</TargetMachinePlatform>
       <CodeGeneration>compute_30,sm_30</CodeGeneration>
       <Optimization>O3</Optimization>
+      <AdditionalCompilerOptions>
+      </AdditionalCompilerOptions>
+      <Defines>__CUDACC__</Defines>
+      <PtxAsOptionV>true</PtxAsOptionV>
+      <FastMath>true</FastMath>
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
