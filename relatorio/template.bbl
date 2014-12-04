@@ -1,0 +1,56 @@
+\begin{thebibliography}{\protect\citename{van~der Laan et~al\mbox{.} }2009}
+
+\bibitem[\protect\citename{Bagar et~al\mbox{.} }2010]{Bagar:2010}
+{\sc Bagar, F., Scherzer, D., and Wimmer, M.}
+\newblock 2010.
+\newblock A layered particle-based fluid model for real-time rendering of
+  water.
+\newblock In {\em Proceedings of the 21st Eurographics Conference on
+  Rendering}, Eurographics Association, Aire-la-Ville, Switzerland,
+  Switzerland, EGSR'10, 1383--1389.
+
+\bibitem[\protect\citename{Krog and Elster }2012]{Krog:2010}
+{\sc Krog, O.~E., and Elster, A.~C.}
+\newblock 2012.
+\newblock Fast gpu-based fluid simulations using sph.
+\newblock In {\em Proceedings of the 10th International Conference on Applied
+  Parallel and Scientific Computing - Volume 2}, Springer-Verlag, Berlin,
+  Heidelberg, PARA'10, 98--109.
+
+\bibitem[\protect\citename{Lorensen and Cline }1987]{Lorensen:1987}
+{\sc Lorensen, W.~E., and Cline, H.~E.}
+\newblock 1987.
+\newblock Marching cubes: A high resolution 3d surface construction algorithm.
+\newblock {\em SIGGRAPH Comput. Graph. 21}, 4 (Aug.), 163--169.
+
+\bibitem[\protect\citename{M\"{u}ller et~al\mbox{.} }2007]{Muller:2007}
+{\sc M\"{u}ller, M., Schirm, S., and Duthaler, S.}
+\newblock 2007.
+\newblock Screen space meshes.
+\newblock In {\em Proceedings of the 2007 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, Eurographics Association, Aire-la-Ville, Switzerland,
+  Switzerland, SCA '07, 9--15.
+
+\bibitem[\protect\citename{Rosenberg and Birdwell }2008]{Rosenberg:2008}
+{\sc Rosenberg, I.~D., and Birdwell, K.}
+\newblock 2008.
+\newblock Real-time particle isosurface extraction.
+\newblock In {\em Proceedings of the 2008 Symposium on Interactive 3D Graphics
+  and Games}, ACM, New York, NY, USA, I3D '08, 35--43.
+
+\bibitem[\protect\citename{van~der Laan et~al\mbox{.}
+  }2009]{vanderLaan:2009:SSF:1507149.1507164}
+{\sc van~der Laan, W.~J., Green, S., and Sainz, M.}
+\newblock 2009.
+\newblock Screen space fluid rendering with curvature flow.
+\newblock In {\em Proceedings of the 2009 Symposium on Interactive 3D Graphics
+  and Games}, ACM, New York, NY, USA, I3D '09, 91--98.
+
+\bibitem[\protect\citename{Williams }2008]{Williams:2008}
+{\sc Williams, B.~W.}
+\newblock 2008.
+\newblock Smooth surface reconstruction from particles.
+\newblock In {\em In Proceedings of SIGGRAPH ’08: ACM SIGGRAPH 2008 Papers.
+  Association of Computing Machinery, ACM}, Press.
+
+\end{thebibliography}
